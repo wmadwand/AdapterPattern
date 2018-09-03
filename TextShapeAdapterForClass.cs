@@ -49,7 +49,7 @@ namespace Adapter
 
         public bool IsThisEmpty()
         {
-            return IsEmpty();
+            return IsEmpty(true);
         }
     }
 }
