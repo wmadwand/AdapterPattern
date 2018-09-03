@@ -1,0 +1,2 @@
+# AdapterPattern
+C# sample
